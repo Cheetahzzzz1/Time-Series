@@ -13,3 +13,35 @@ This assignment is a time series analysis. The notebook analyzes time series dat
 # Dataset
 
 The dataset contains time series data related to employment statistics. The dataset is analyzed to determine stationarity and assess the impact of external factors such as COVID-19 on the trends.
+
+# Prerequisites
+
+To run this project, we would need the following libraries:
+
+1. pandas
+
+2. numpy
+
+3. matplotlib
+
+4. seaborn
+
+5. statsmodel
+
+# Usage
+
+1. Load the dataset and visualize the time series data.
+
+2. Observe overall trends and seasonal patterns.
+
+3. Conduct an Augmented Dickey-Fuller (ADF) test to check for stationarity.
+
+4. Intepret the results:
+
+    1. Test Statistics = 0.307
+  
+    2. p-value = 0.978
+  
+    3. Critical Values = {-3.447 (1%), -2.869 (5%), -2.571 (10%)}
+  
+    4. Conclusion = The high p-value suggests that the time series is not stationary.
