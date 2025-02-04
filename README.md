@@ -42,6 +42,6 @@ To run this project, we would need the following libraries:
   
     2. p-value = 0.978
   
-    3. Critical Values = {-3.447 (1%), -2.869 (5%), -2.571 (10%)}
+    3. Critical Values = { -3.447 (1%), -2.869 (5%), -2.571 (10%) }
   
     4. Conclusion = The high p-value suggests that the time series is not stationary.
