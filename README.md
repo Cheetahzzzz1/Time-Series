@@ -45,3 +45,13 @@ To run this project, we would need the following libraries:
     3. Critical Values = { -3.447 (1%), -2.869 (5%), -2.571 (10%) }
   
     4. Conclusion = The high p-value suggests that the time series is not stationary.
+
+# Interpretation
+
+1. The time series data exhibits fluctuations but does not show immediate trends.
+
+2. There is potential seasonality in the data.
+
+3. The COVID-19 pandemic might have affected the time series data.
+
+4. The ADF test results indicate that differencing or transformation might be required to make the series stationary.
