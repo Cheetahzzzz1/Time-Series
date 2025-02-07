@@ -55,3 +55,11 @@ To run this project, we would need the following libraries:
 3. The COVID-19 pandemic might have affected the time series data.
 
 4. The ADF test results indicate that differencing or transformation might be required to make the series stationary.
+
+# Future Improvements
+
+1. apply differencing to transform the data into a stationary series.
+
+2. Perform further statistical tests to confirm seasonality.
+
+3. Explore forecasting techniques like ARIMA or SARIMA models.
